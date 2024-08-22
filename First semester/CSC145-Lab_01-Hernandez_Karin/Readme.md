@@ -1,0 +1,2 @@
+<br><span style="font-size:4em;">Creates an array of 10 randomly generated numbers which then loops over 10 times to remove a random value each iteration and add it to a second array.</span> </br>
+<img src="image.png">
